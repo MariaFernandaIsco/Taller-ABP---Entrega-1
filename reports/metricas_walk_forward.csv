@@ -1,0 +1,7 @@
+,MAE,RMSE,Poisson_dev,MAE_total
+GRU,1.545,2.063,1.801,5.615
+LSTM,1.544,2.07,1.803,5.632
+ultima_semana,2.05,2.975,13.846,6.967
+media_movil_4,1.6,2.207,2.075,5.217
+media_movil_8,1.619,2.181,1.97,5.808
+media_historica,1.578,2.134,1.844,5.863
